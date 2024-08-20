@@ -1,0 +1,422 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4113
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(Keypoints) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(1. SQL is a powerful language used for managing and manipulating databases.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(2. The first step in using SQL is to create a database, which serves as a container for storing) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 742.6774015748030706 Td
+(data.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 714.3309448818897636 Td
+(3. To create a database, you need to use the CREATE DATABASE statement followed by the) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(name of the database.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(4. It is important to choose a meaningful and descriptive name for your database.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+(5. After creating the database, you can start creating tables to store your data.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(6. Tables are created using the CREATE TABLE statement, followed by the table name and the) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 600.9451181102361943 Td
+(column definitions.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 572.5986614173227736 Td
+(7. Each column in a table has a data type, which determines the type of data that can be stored) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(in that column.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+(8. You can also specify additional constraints on the columns, such as whether a column can) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 515.9057480314959321 Td
+(contain null values or if it should have a unique value.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 487.559291338582625 Td
+(9. Once the table is created, you can start inserting data into it using the INSERT INTO) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 473.3860629921259147 Td
+(statement.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(10. The INSERT INTO statement allows you to specify the table name and the values to be) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 430.8663779527558404 Td
+(inserted into each column.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 402.5199212598424765 Td
+(11. It is important to ensure that the data being inserted matches the data types and constraints) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 388.3466929133857661 Td
+(defined for each column.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 360.0002362204724022 Td
+(12. SQL provides various data types for storing different types of data, such as integers, strings,) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 345.8270078740156919 Td
+(dates, and booleans.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 317.480551181102328 Td
+(13. It is important to choose the appropriate data type for each column to ensure efficient) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+(storage and retrieval of data.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 274.9608661417322537 Td
+(14. SQL also provides various operators and functions for manipulating and querying data in the) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 260.7876377952754865 Td
+(database.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+28.3464566929133888 232.4411811023621794 Td
+(15. Learning SQL can greatly enhance your ability to manage and analyze data in your job.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20240814021355+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000004317 00000 n 
+0000006134 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004374 00000 n 
+0000004499 00000 n 
+0000004629 00000 n 
+0000004762 00000 n 
+0000004899 00000 n 
+0000005022 00000 n 
+0000005151 00000 n 
+0000005283 00000 n 
+0000005419 00000 n 
+0000005547 00000 n 
+0000005674 00000 n 
+0000005803 00000 n 
+0000005936 00000 n 
+0000006038 00000 n 
+0000006382 00000 n 
+0000006468 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <80DAF8D8DDB9D873E06463953B3ADFE4> <80DAF8D8DDB9D873E06463953B3ADFE4> ]
+>>
+startxref
+6572
+%%EOF
